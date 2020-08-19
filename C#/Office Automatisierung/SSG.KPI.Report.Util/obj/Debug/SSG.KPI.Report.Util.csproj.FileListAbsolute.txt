@@ -1,0 +1,6 @@
+C:\DEV\SSG\trunk\Projects\KPI 3.x\SSG.KPI.ReportService\SSG.KPI.Report.Util\bin\Debug\SSG.KPI.Report.Util.dll
+C:\DEV\SSG\trunk\Projects\KPI 3.x\SSG.KPI.ReportService\SSG.KPI.Report.Util\bin\Debug\SSG.KPI.Report.Util.pdb
+C:\DEV\SSG\trunk\Projects\KPI 3.x\SSG.KPI.ReportService\SSG.KPI.Report.Util\obj\Debug\SSG.KPI.Report.Util.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\KPI 3.x\SSG.KPI.ReportService\SSG.KPI.Report.Util\obj\Debug\SSG.KPI.Report.Util.dll
+C:\DEV\SSG\trunk\Projects\KPI 3.x\SSG.KPI.ReportService\SSG.KPI.Report.Util\obj\Debug\SSG.KPI.Report.Util.pdb
+C:\DEV\SSG\trunk\Projects\KPI 3.x\SSG.KPI.ReportService\SSG.KPI.Report.Util\obj\Debug\SSG.KPI.Report.Util.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\bin\Debug\RiskRSSReader.exe.config
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\bin\Debug\RiskRSSReader.exe
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\bin\Debug\RiskRSSReader.pdb
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\obj\Debug\RiskRSSReader.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\obj\Debug\RiskRSSReader.exe
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\obj\Debug\RiskRSSReader.pdb
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\bin\Debug\HtmlAgilityPack.dll
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\bin\Debug\HtmlAgilityPack.pdb
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\bin\Debug\HtmlAgilityPack.xml
+C:\DEV\SSG\trunk\Projects\Util\RiskRSSReader\obj\Debug\RiskRSSReader.csproj.CopyComplete

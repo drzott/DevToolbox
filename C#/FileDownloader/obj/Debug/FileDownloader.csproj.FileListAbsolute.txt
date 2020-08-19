@@ -1,0 +1,6 @@
+C:\DEV\SSG\trunk\Projects\Util\FileDownloader\obj\Debug\FileDownloader.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\Util\FileDownloader\bin\Debug\FileDownloader.exe.config
+C:\DEV\SSG\trunk\Projects\Util\FileDownloader\bin\Debug\FileDownloader.exe
+C:\DEV\SSG\trunk\Projects\Util\FileDownloader\bin\Debug\FileDownloader.pdb
+C:\DEV\SSG\trunk\Projects\Util\FileDownloader\obj\Debug\FileDownloader.exe
+C:\DEV\SSG\trunk\Projects\Util\FileDownloader\obj\Debug\FileDownloader.pdb

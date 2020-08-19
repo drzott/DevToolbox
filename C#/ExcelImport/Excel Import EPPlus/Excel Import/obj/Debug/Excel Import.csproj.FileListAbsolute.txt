@@ -1,0 +1,2 @@
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\ExcelImport\Excel Import EPPlus\Excel Import\obj\Debug\Excel Import.csprojAssemblyReference.cache
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\ExcelImport\Excel Import EPPlus\Excel Import\obj\Debug\Excel Import.csproj.CoreCompileInputs.cache
