@@ -1,0 +1,10 @@
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\bin\Debug\SharepointExport.exe.config
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\bin\Debug\SharepointExport.exe
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\bin\Debug\SharepointExport.pdb
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\obj\Debug\SharepointExport.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\obj\Debug\SharepointExport.csproj.CopyComplete
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\obj\Debug\SharepointExport.exe
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\obj\Debug\SharepointExport.pdb
+C:\DEV\SSG\trunk\Customers\Rhenag\SharepointExport\obj\Debug\SharepointExport.csprojAssemblyReference.cache

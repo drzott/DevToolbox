@@ -1,0 +1,8 @@
+C:\Users\mklein\Documents\Test123\Test123\bin\Debug\Test123.exe.config
+C:\Users\mklein\Documents\Test123\Test123\bin\Debug\Test123.exe
+C:\Users\mklein\Documents\Test123\Test123\bin\Debug\Test123.pdb
+C:\Users\mklein\Documents\Test123\Test123\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\mklein\Documents\Test123\Test123\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\mklein\Documents\Test123\Test123\obj\Debug\Test123.csprojResolveAssemblyReference.cache
+C:\Users\mklein\Documents\Test123\Test123\obj\Debug\Test123.exe
+C:\Users\mklein\Documents\Test123\Test123\obj\Debug\Test123.pdb

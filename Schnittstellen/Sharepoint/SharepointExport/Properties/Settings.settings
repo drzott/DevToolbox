@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SharepointExport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">User ID=;Password=;Initial Catalog=;Data Source=;</Value>
+    </Setting>
+    <Setting Name="WorkingDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\DEV\Work\Sharepoint</Value>
+    </Setting>
+    <Setting Name="SharepointBaseUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SharepointUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SharepointPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SharepointDomain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
