@@ -1,0 +1,5 @@
+* file path for export
+  CONCATENATE '/usr/sap/interfaces/' sy-sysid '/' sy-sysid 'Files/' sy-mandt '/WAYKPI/' 'PlosVerwEnt.txt' INTO path.
+*create and open file for output
+  OPEN DATASET path FOR OUTPUT IN LEGACY BINARY MODE
+    IGNORING CONVERSION ERRORS.
