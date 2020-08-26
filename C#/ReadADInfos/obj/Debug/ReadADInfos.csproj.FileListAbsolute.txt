@@ -1,0 +1,7 @@
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\bin\Debug\ReadADInfos.exe
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\bin\Debug\ReadADInfos.pdb
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\obj\Debug\ReadADInfos.csprojAssemblyReference.cache
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\obj\Debug\ReadADInfos.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\obj\Debug\ReadADInfos.exe
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\obj\Debug\ReadADInfos.pdb
+C:\DEV\SSG\trunk\Projects\Util\ReadADInfos\bin\Debug\ReadADInfos.exe.config

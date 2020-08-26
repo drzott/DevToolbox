@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReadADInfos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExportDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\DEV\Work\AD</Value>
+    </Setting>
+    <Setting Name="Wildcard" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">samaccountname</Value>
+    </Setting>
+    <Setting Name="PersistToDatabase" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PersistIfEmailAvailable" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PersistIfDepartmentAvailable" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=VPC-AS-WIN7DEV1\SSG; User Id=sa; Password=McDonalds667; Initial Catalog=BE</Value>
+    </Setting>
+    <Setting Name="WriteFiles" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
