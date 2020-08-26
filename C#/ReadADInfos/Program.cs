@@ -15,8 +15,8 @@ namespace ReadADInfos
         {
             DirectorySearcher se = new DirectorySearcher();
             se.Filter = "(&(objectClass=group))";
-            se.SizeLimit = 0;
-            se.PageSize = 999;
+            //se.SizeLimit = 0;
+            se.PageSize = 100000;
 
             // groups
 
@@ -38,8 +38,8 @@ namespace ReadADInfos
             se = new DirectorySearcher();
 
             se.Filter = "(&(objectClass=user))";
-            se.SizeLimit = 0;
-            se.PageSize = 999;
+            //se.SizeLimit = 0;
+            se.PageSize = 100000;
 
             results = null;         
             results = se.FindAll();
