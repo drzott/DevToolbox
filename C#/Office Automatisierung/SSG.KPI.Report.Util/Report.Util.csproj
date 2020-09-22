@@ -7,8 +7,8 @@
     <ProjectGuid>{0A0D9DE4-F9C9-4D1C-81A7-4B254CA82F96}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SSG.KPI.Report.Util</RootNamespace>
-    <AssemblyName>SSG.KPI.Report.Util</AssemblyName>
+    <RootNamespace>Report.Util</RootNamespace>
+    <AssemblyName>Report.Util</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

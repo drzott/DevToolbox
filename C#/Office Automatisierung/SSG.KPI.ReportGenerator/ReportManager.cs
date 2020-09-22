@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.IO;
 
-using SSG.KPI.Report.Util;
+using Report.Util;
 
 namespace SSG.KPI.ReportGenerator
 {

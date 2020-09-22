@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 using System.Runtime;
 using System.Diagnostics;
 
-namespace SSG.KPI.Report.Util
+namespace Report.Util
 {
     public static class ProcessUtil
     {

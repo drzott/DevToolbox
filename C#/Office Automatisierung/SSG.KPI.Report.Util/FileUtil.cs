@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace SSG.KPI.Report.Util
+namespace Report.Util
 {
     public static class FileUtil
     {

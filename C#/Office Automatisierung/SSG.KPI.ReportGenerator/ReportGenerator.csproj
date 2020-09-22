@@ -7,8 +7,8 @@
     <ProjectGuid>{9F7C6A9A-E83B-428C-A344-694DAD851490}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SSG.KPI.ReportGenerator</RootNamespace>
-    <AssemblyName>SSG.KPI.ReportGenerator</AssemblyName>
+    <RootNamespace>ReportGenerator</RootNamespace>
+    <AssemblyName>ReportGenerator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -70,28 +70,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\Service\DataService\SSG.DataService.Data\SSG.DataService.Data.csproj">
-      <Project>{7358706d-10e6-4040-80db-fe10eb6f73cb}</Project>
-      <Name>SSG.DataService.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\Service\DataService\SSG.DataService\SSG.DataService.csproj">
-      <Project>{b6d40905-1237-45c1-a840-40ded0132e91}</Project>
-      <Name>SSG.DataService</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SSG.KPI.Report.Util\SSG.KPI.Report.Util.csproj">
-      <Project>{0a0d9de4-f9c9-4d1c-81a7-4b254ca82f96}</Project>
-      <Name>SSG.KPI.Report.Util</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SSG.ReportData\SSG.KPI.ReportData.vbproj">
-      <Project>{c7a40479-31c7-45c1-a525-1e7a3b2b7b0e}</Project>
-      <Name>SSG.KPI.ReportData</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SSG.ReportExcel\SSG.KPI.ReportExcel.vbproj">
-      <Project>{3aa19f89-9aa3-4491-a547-981c4c6928be}</Project>
-      <Name>SSG.KPI.ReportExcel</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Logo.png" />

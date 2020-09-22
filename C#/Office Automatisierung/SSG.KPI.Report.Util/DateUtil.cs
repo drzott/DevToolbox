@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SSG.KPI.Report.Util
+namespace Report.Util
 {
     public static class DateUtil
     {

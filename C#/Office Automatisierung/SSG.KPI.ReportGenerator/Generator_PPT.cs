@@ -11,9 +11,9 @@ using System.Drawing;
 using Microsoft.Office.Core;
 using Microsoft.Office.Interop.PowerPoint;
 
-using SSG.KPI.Report.Util;
+using Report.Util;
 
-namespace SSG.KPI.ReportGenerator
+namespace ReportGenerator
 {
     public class Generator_PPT
     {

@@ -10,12 +10,8 @@ using System.Drawing;
 using Microsoft.Office.Core;
 using Microsoft.Office.Interop.PowerPoint;
 
-using SSG.KPI.Report.Util;
+using Report.Util;
 
-using SSG.DataService.KPI;
-using SSG.DataService.Data.KPI.DTO;
-
-using SSG.KPI.ReportExcel;
 using System.Net.Mail;
 using System.Net;
 

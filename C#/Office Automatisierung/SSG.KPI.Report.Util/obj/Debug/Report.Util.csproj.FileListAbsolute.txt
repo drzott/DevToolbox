@@ -1,0 +1,5 @@
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\Office Automatisierung\SSG.KPI.Report.Util\bin\Debug\SSG.KPI.Report.Util.dll
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\Office Automatisierung\SSG.KPI.Report.Util\bin\Debug\SSG.KPI.Report.Util.pdb
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\Office Automatisierung\SSG.KPI.Report.Util\obj\Debug\Report.Util.csproj.CoreCompileInputs.cache
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\Office Automatisierung\SSG.KPI.Report.Util\obj\Debug\SSG.KPI.Report.Util.dll
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\Office Automatisierung\SSG.KPI.Report.Util\obj\Debug\SSG.KPI.Report.Util.pdb

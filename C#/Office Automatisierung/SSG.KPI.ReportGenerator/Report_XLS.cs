@@ -8,9 +8,9 @@ using System.Data.SqlClient;
 
 using Microsoft.Office.Interop.Excel;
 
-using SSG.KPI.Report.Util;
+using Report.Util;
 
-namespace SSG.KPI.ReportGenerator
+namespace ReportGenerator
 {
     public class Report_XLS : IDisposable
     {
