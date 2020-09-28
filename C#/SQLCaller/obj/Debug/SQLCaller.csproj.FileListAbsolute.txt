@@ -1,0 +1,7 @@
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\bin\Debug\SQLCaller.exe.config
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\bin\Debug\SQLCaller.exe
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\bin\Debug\SQLCaller.pdb
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\obj\Debug\SQLCaller.csprojAssemblyReference.cache
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\obj\Debug\SQLCaller.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\obj\Debug\SQLCaller.exe
+C:\DEV\SSG\trunk\Projects\Util\SQLCaller\obj\Debug\SQLCaller.pdb

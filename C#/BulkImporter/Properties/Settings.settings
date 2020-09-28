@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BulkImporter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="File" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\DEV\Work\EKMBUPA2T.CSV</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=vpc-as-win7dev1\SSG;Initial Catalog=BE;User ID=sa;Password=McDonalds667;Persist Security Info=True;</Value>
+    </Setting>
+    <Setting Name="Columns" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;GPNR&lt;/string&gt;
+  &lt;string&gt;LAND&lt;/string&gt;
+  &lt;string&gt;NAME1&lt;/string&gt;
+  &lt;string&gt;NAME2&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Delim" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">;</Value>
+    </Setting>
+    <Setting Name="Table" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">IMP_SAPBW_GPNAME_IMP</Value>
+    </Setting>
+    <Setting Name="SplitMode" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SplitModeAktiv" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FilterColumn" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="FilterValue" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">R</Value>
+    </Setting>
+    <Setting Name="Filter" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

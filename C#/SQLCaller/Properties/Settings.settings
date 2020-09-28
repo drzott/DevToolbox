@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SQLCaller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sdfsdfsdfsdfsdfsdf</Value>
+    </Setting>
+    <Setting Name="SQLCommand" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT 1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

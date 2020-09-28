@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkImporter", "BulkImporter.csproj", "{ADC88440-B368-458F-9241-564BF39D467C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC88440-B368-458F-9241-564BF39D467C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC88440-B368-458F-9241-564BF39D467C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC88440-B368-458F-9241-564BF39D467C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC88440-B368-458F-9241-564BF39D467C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12041F71-3DD3-4176-A507-FE2B2EB882F8}
+	EndGlobalSection
+EndGlobal

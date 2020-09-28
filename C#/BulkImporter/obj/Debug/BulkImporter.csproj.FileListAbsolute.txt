@@ -1,0 +1,7 @@
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\obj\Debug\BulkImporter.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\bin\Debug\BulkImporter.exe.config
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\bin\Debug\BulkImporter.exe
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\bin\Debug\BulkImporter.pdb
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\obj\Debug\BulkImporter.exe
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\obj\Debug\BulkImporter.pdb
+C:\DEV\SSG\trunk\Projects\Util\BulkImporter\obj\Debug\BulkImporter.csprojAssemblyReference.cache
