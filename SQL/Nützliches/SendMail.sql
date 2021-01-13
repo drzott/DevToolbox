@@ -3,4 +3,5 @@
 		 @recipients='test@test.de',
 		 @subject = 'Testmail',
 		 @body = 'Das ist ein Test',
-		 @body_format = 'TEXT'; 
+		 @body_format = 'TEXT'
+		 ; 
