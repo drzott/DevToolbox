@@ -1,0 +1,9 @@
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\bin\Debug\SFTP Upload.exe
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\bin\Debug\SFTP Upload.pdb
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\bin\Debug\FluentFTP.dll
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\bin\Debug\FluentFTP.xml
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\obj\Debug\SFTP Upload.csprojAssemblyReference.cache
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\obj\Debug\SFTP Upload.csproj.CoreCompileInputs.cache
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\obj\Debug\SFTP Upload.csproj.CopyComplete
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\obj\Debug\SFTP Upload.exe
+C:\Users\andreas.schwarz.simmeth\OneDrive\Daten\DEV\Repo\git\DevToolbox\C#\SFTP Upload\obj\Debug\SFTP Upload.pdb
