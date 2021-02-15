@@ -1,0 +1,6 @@
+C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\ParallelProcess\ParallelProcess\bin\Debug\ParallelProcess.exe
+C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\ParallelProcess\ParallelProcess\bin\Debug\ParallelProcess.pdb
+C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\ParallelProcess\ParallelProcess\obj\Debug\ParallelProcess.csproj.CoreCompileInputs.cache
+C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\ParallelProcess\ParallelProcess\obj\Debug\ParallelProcess.exe
+C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\ParallelProcess\ParallelProcess\obj\Debug\ParallelProcess.pdb
+C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\ParallelProcess\ParallelProcess\bin\Debug\ParallelProcess.exe.config

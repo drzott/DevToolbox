@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ParallelProcess.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=and-pc\andb17,1433;Initial Catalog=LB_SWT;User ID=sa;Password=BimBam2011;Persist Security Info=True;</Value>
+    </Setting>
+    <Setting Name="Prozesse" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|SQL|execute sp_endless&lt;/string&gt;
+  &lt;string&gt;1|SQL|execute sp_endless&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;2|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;2|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;3|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+  &lt;string&gt;1|APP|C:\DEV\SSG\trunk\Projects\Util\ParallelProcess\TestWorker15\bin\Debug\TestWorker15.exe&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="MaxProcess" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
